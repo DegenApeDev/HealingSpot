@@ -1,0 +1,4 @@
+{
+	"subcommands_package": "HealingSpot\\Subcommands\\",
+	"main_command": "hs"
+}

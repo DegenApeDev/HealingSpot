@@ -1,0 +1,9 @@
+name: HealingSpot
+main: HealingSpot\HealingSpot
+version: 1.0.0
+api: 1.12.0
+
+commands:
+  hs:
+    description: "Main command of the HealingSpot plugin"
+    usage: "/healingspot <subcommand>"
